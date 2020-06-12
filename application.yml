@@ -15,6 +15,6 @@ spring:
     
     
 config:
-  info: master branch,microservicecloud-config/application.yml version=1
+  info: master branch,microservicecloud-config/application.yml version=2
 
 
