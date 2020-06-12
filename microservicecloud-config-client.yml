@@ -3,6 +3,11 @@
     active:
       - dev
 
+
+config:
+  info: version=1
+
+
 ---
 
 server:
