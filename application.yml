@@ -12,3 +12,9 @@ spring:
   profiles: test
   application:
     name: microservicecloud-config-guigu-test
+    
+    
+config:
+  info: master branch,microservicecloud-config/application.yml version=1
+
+
